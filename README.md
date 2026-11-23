@@ -30,21 +30,21 @@ SSD1306 I2C OLED display
 Breadboard and jumper wires
 USB power and Wi-Fi connectivity
 
-##Software and Technologies
+## Software and Technologies
 Arduino IDE and embedded C++
 ESP32
 ThingSpeak IoT cloud platform
 HTML, CSS, and JavaScript for the planned web dashboard
 Web APIs for retrieving sensor data
 
-##System Workflow
+## System Workflow
 The sensors collect temperature, humidity, and gas-sensor readings.
 The ESP32 processes the sensor readings.
 The OLED displays the readings locally.
 The ESP32 sends data over Wi-Fi to ThingSpeak.
 The planned website retrieves the available data and displays it through charts, status indicators, and historical trends.
 
-##Future Enhancements
+## Future Enhancements
 
 Responsive dashboard for desktop and mobile devices
 Real-time data refresh and interactive charts
@@ -52,7 +52,7 @@ Historical data analysis
 Configurable threshold alerts
 Improved sensor calibration and more meaningful air-quality estimates
 
-##Project Status
+## Project Status
 
 Phase 1: Hardware setup, sensor integration, and OLED display.
 
@@ -60,15 +60,15 @@ Phase 2: Wi-Fi connectivity and ThingSpeak cloud integration.
 
 Phase 3: Web dashboard development for real-time monitoring.
 
-##Important Note
+## Important Note
 
 The MQ-135 provides sensor readings that require calibration and interpretation. Raw readings alone do not represent a certified Air Quality Index (AQI).
 
-#Author
+## Author
 Kapil Kumar Gupta 
 Rohit Kumar Yadav
 Abhishek Pal
 
-##Note
+## Note
 MQ-135 raw readings are not equivalent to a certified AQI measurement. Accurate gas concentration estimates require appropriate calibration and validation.
 
