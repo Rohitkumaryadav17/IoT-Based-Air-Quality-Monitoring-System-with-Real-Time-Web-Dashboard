@@ -8,7 +8,8 @@ Presentation PPT Link :- https://docs.google.com/presentation/d/1CxxoGmHysMZz8GW
 ## PPT video Presentation : https://drive.google.com/drive/folders/1YkEUSzkbfRae9WzLavKBi3b4MDvFc6uP?usp=sharing
 
  
- ##Project Overview
+ ## Project Overview
+ 
 The IoT-Based Air Quality Monitoring System is designed to monitor environmental   conditions using an ESP32 microcontroller, DHT11 temperature and humidity sensor, and MQ-135 gas sensor. Sensor readings will be displayed on an OLED screen and transmitted over Wi-Fi to a cloud platform.
 
 After completing the hardware implementation and testing, the project will be extended with a web-based monitoring dashboard to visualize real-time sensor readings, track historical data, and provide an easy-to-understand overview of environmental conditions.
