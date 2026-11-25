@@ -1,5 +1,5 @@
 # IoT-Based Air Quality Monitoring System with Real-Time Web Dashboard
- <img width="1536" height="550" alt="image" src="https://github.com/user-attachments/assets/239217a3-c732-4b31-8720-e3a341435e84" />
+ <img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/239217a3-c732-4b31-8720-e3a341435e84" />
  <img width="1000" height="400" alt="Simulated Hardware" src="https://github.com/user-attachments/assets/123cf2d9-af88-4f7f-9b0d-45b4481ba11d" />
 
 
